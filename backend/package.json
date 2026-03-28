@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+<<<<<<< HEAD
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+=======
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+>>>>>>> 47767f05dc76b539acc92c4aba3eea0b8f475cbc
